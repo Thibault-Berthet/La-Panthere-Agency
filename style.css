@@ -127,6 +127,9 @@ a:focus{
     font-weight: bold;
     padding-right: 20px;
 }
+.focus-tab:focus{
+    border: 2px dashed black;
+}
 .d-bloc {
     color: rgba(255, 255, 255, .7);
 }
@@ -753,7 +756,7 @@ h3 {
 }
 
 h1 {
-    color: #333333!important;
+    color: #000000!important;
 }
 
 h4 {
