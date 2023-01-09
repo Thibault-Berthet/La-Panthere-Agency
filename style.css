@@ -17,6 +17,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+a:focus{
+    border: 2px dashed black;
+}
 
 #page-loading-blocs-notifaction {
     position: fixed;
@@ -98,6 +101,12 @@ a:hover {
 .b-parallax {
     background-attachment: fixed;
 }
+.color-black{
+    color: #000000;
+}
+.color-black-shadow{
+    text-shadow: 0 0 1rem black;
+}
 .citation{
     display: flex;
     align-content: center;
@@ -111,8 +120,12 @@ a:hover {
 .definition{
     font-size: 2.2rem;
     display: flex;
-    align-content: center;
+    align-content: center;  
     margin: 0% 20% 0% 20%;
+}
+.passage-souris:hover{
+    font-weight: bold;
+    padding-right: 20px;
 }
 .d-bloc {
     color: rgba(255, 255, 255, .7);
@@ -666,7 +679,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: #000000!important;
 }
 
 .container {
@@ -754,6 +767,7 @@ h4 {
     color: #FFFFFF!important;
 }
 
+
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -795,12 +809,12 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white {
