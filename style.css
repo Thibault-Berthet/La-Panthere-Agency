@@ -331,6 +331,8 @@ a:focus{
 
 .navbar-brand img {
     max-height: 200px;
+    height: 40px;
+    width: 217px;
     margin: 0 5px 0 0;
     display: inline;
 }
