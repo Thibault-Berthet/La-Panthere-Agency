@@ -2,7 +2,13 @@
 
 Bonjour, Bonsoir,
 
-Bienvenue sur le code front-end du site de l'agence de web design La Panthère. Le HTML.
+Bienvenue sur le code front-end du site de l'agence de web design La Panthère.
+
+Le code front-end a était corriger pour améliorer les performances, l'accessibilité et le SEO du site.
+
+Vous trouverai le site via Github Pages.
+
+
 
 Hi,
 
